@@ -1,8 +1,6 @@
-<!-- ### Olá sou Marcos Paulo 👋 -->
-<h3 style="color: rgb(254, 175, 0); --darkreader-inline-color:#ffb81a;" data-darkreader-inline-color="">Olá sou Marcos Paulo 👋</h3>
+### Olá sou Marcos Paulo 👋
 
-- 🔭 Trabalho com Back-end
-- 🌱 Estudando Laravel
+- 🔭 Trabalho com Back-end 
 
  <div>
   <a href="https://github.com/meunik">
