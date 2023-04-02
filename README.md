@@ -15,6 +15,7 @@
   <img align="center" alt="Marcos-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Js" title="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-jQuery" title="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Marcos-Vue" title="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <!--   <img align="right" alt="Marcos-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
   
