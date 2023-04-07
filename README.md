@@ -1,6 +1,6 @@
 ### Olá sou Marcos Paulo 👋
 
-- 🔭 Trabalho com Back-end 
+- 🔭💻 Trabalho com Full Stack.
 
  <div>
   <a href="https://github.com/meunik">
