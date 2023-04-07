@@ -1,6 +1,6 @@
 ### Olá sou Marcos Paulo 👋
 
-- 🔭💻 Trabalho com Full Stack.
+- 💻 Trabalho como Full Stack (Vue + Laravel).
 
  <div>
   <a href="https://github.com/meunik">
